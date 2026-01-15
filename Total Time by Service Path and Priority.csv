@@ -1,0 +1,22 @@
+DER Service Path,DER Priority,COUNTA of Type,MEDIAN of DER Total time
+Close Without Arrival,0,4.14%,0
+,1,5.82%,39
+,2,2.48%,3
+Close Without Arrival Total,,12.45%,6
+Dispatch Serviced,0,0.46%,165
+,1,24.54%,99
+,2,14.02%,57
+Dispatch Serviced Total,,39.02%,83
+Duplicate,0,0.04%,16
+,1,0.97%,24
+,2,1.34%,2
+Duplicate Total,,2.35%,4
+Gone on Arrival,0,0.48%,214
+,1,2.01%,130
+,2,0.45%,6
+Gone on Arrival Total,,2.94%,100
+Non-Dispatch Serviced,0,1.82%,117
+,1,38.64%,36
+,2,2.79%,38
+Non-Dispatch Serviced Total,,43.24%,38
+Grand Total,,100.00%,50
