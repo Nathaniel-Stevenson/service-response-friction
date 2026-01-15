@@ -1,7 +1,7 @@
-DER Service Path,COUNTA of DER Hour Created Value
-Close Without Arrival,1370
-Dispatch Serviced,4295
-Duplicate,259
-Gone on Arrival,324
-Non-Dispatch Serviced,4760
-Grand Total,11008
+DER Service Path,COUNTA of DER Hour Created Value,Percent of Total
+Close Without Arrival,1370,12.4%
+Dispatch Serviced,4295,39.0%
+Duplicate,259,2.4%
+Gone on Arrival,324,2.9%
+Non-Dispatch Serviced,4760,43.2%
+Grand Total,11008,100.0%
