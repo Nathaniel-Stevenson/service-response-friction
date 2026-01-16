@@ -3,7 +3,7 @@
 Dataset source: https://catalog.data.gov/dataset/calls-for-service-2026
 
 # Hourly Volume Is Not a Primary Driver of Dispatch Delay
-Pivot Table: Time to Dispatch and Incident Volume by Hour
+Table: Time to Dispatch and Incident Volume by Hour
 
 There is little to no visible correlation between the number of incidents to Time to Dispatch when analyzed by hour. High volume seemingly does not cause delays in Time to Dispatch and low volumes do not correlate with lower times. 
 
@@ -15,3 +15,13 @@ Table: Total Time by Service Path and Priority
 High priority incidents have lower Median Total Time than lower priority incidents. Lower priorities show longer Median Total Times, consistent with incidents being resolved in priority order. This is also consistent across all service paths.
 
 Service Path is a driver in total time to resolve an incident. Incidents that require dispatch on average take twice as long to complete than non-dispatch serviced incidents. Meanwhile, GOA incidents take longer than either. Duplicates are resolved quickly.
+
+# Where Time Accumulates in Dispatch Serviced Incidents
+Table: Dispatch Serviced Incident Time Breakdown
+
+We have 3 durations available for examining where time accumulates in Dispatch Serviced incidents relative to other service paths. The first 2 durations, Time to Dispatch and Time to Travel, are both low compared to the total time. Time On Scene is the primary duration within Dispatch Serviced incidents, resulting in longer total resolution times.
+
+# Dispatch Delay and On-Scene Time During Evening Hours
+Table: Dispatch Delay and On-Scene Time During Evening Hours
+
+As previously stated, 6pm is an outlier in Time to Dispatch that is not explained by increased volume. At this hour, Time on Scene decreases rather than increases. Despite this reduction, Total Time to resolve an incident is higher at 6pm than in the surrounding hours, aligning with the observed increase in Time to Dispatch.
