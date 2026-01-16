@@ -1,0 +1,10 @@
+DER Service Path,DER Hour Created Value,COUNTA of Type,MEDIAN of DER Time to Dispatch (Minutes),MEDIAN of DER On Scene Time (Minutes)
+Dispatch Serviced,17,235,20,39
+,18,202,97,24
+,19,215,33,28
+Dispatch Serviced Total,,652,43,32
+Non-Dispatch Serviced,17,221,#N/A,31
+,18,172,#N/A,28
+,19,199,#N/A,35
+Non-Dispatch Serviced Total,,592,#N/A,31
+Grand Total,,1244,#N/A,32
